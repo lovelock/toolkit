@@ -7,4 +7,4 @@ require (
 	github.com/rs/zerolog v1.26.1
 )
 
-require golang.org/x/net v0.0.0-20211029224645-99673261e6eb // indirect
+require golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
